@@ -10,7 +10,7 @@ disableRSS = true
   title = "The Monties"
   description = 'Indie Rock - Spokane, Wa'
   logoimage = "images/pokeball_icon.png"
-  copyright = "Untitled"
+  copyright = "The Monties"
 
 [[params.social]]
   medium = "twitter"
