@@ -1,3 +1,3 @@
-** The Monties EPK
+The Monties EPK
 
 An EPK for the Monties
