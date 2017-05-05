@@ -1,1 +1,0 @@
-This is an empty folder. This is not the permenant solution.
