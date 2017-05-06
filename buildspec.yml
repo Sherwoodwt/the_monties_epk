@@ -1,6 +1,9 @@
 vesrion: 0.1
+
 phases:
-  post-build:
+  build:
     commands:
       - hugo --theme=themes/dimension --buildDrafts
+  post-build:
+    commands:
       - aws s3 sync public/ s3://the-monties-epk --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers
