@@ -5,7 +5,7 @@ phases:
     commands:
       - echo "Running hugo"
       - hugo --theme=themes/dimension --buildDrafts
-  post-build:
+  post_build:
     commands:
       - echo "running aws s3 sync"
       - aws s3 sync public/ s3://the-monties-epk --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers
