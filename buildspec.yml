@@ -4,7 +4,6 @@ phases:
   build:
     commands:
       - echo "Running hugo"
-      - ls
       - hugo --theme=themes/dimension --buildDrafts
   post_build:
     commands:
