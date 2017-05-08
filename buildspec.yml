@@ -8,5 +8,5 @@ phases:
   post_build:
     commands:
       - echo "running aws s3 sync"
-      - aws s3 sync public/ s3://the-monties --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers
+      - aws s3 sync public/ s3://the-monties.com --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers
 
