@@ -6,6 +6,8 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableRSS = true
 
+<script src="https://use.fontawesome.com/8c943bc553.js"></script>
+
 [params]
   title = "The Monties"
   description = 'Indie Rock - Spokane, Wa'
