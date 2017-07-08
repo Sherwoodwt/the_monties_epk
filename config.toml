@@ -13,11 +13,6 @@ disableRSS = true
   copyright = "The Monties"
 
 [[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
-
-[[params.social]]
   medium = "facebook"
   icon = "facebook"
   link = "https://www.facebook.com/TheMonties/"
@@ -28,6 +23,6 @@ disableRSS = true
   link = "https://www.instagram.com/the_monties/"
 
 [[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "https://github.com/Sherwoodwt/the_monties_epk"
+  medium = "youtube"
+  icon = "youtube"
+  link = "https://www.youtube.com/channel/UCk-Itl_ohKerWBIEoZnaMGw"
